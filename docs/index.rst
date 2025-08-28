@@ -10,10 +10,10 @@ Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
 documentation for details.
 
-.. automodule:: src.20250828ClassDemo
-:members:
-:undoc-members:
-:show-inheritance:
+.. automodule:: 20250828ClassDemo
+  :members:
+  :undoc-members:
+  :show-inheritance:
 
 .. toctree::
    :maxdepth: 2
